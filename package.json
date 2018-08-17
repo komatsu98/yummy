@@ -1,0 +1,23 @@
+{
+  "name": "yummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komatsu98/yummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komatsu98/yummy/issues"
+  },
+  "homepage": "https://github.com/komatsu98/yummy#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "bootstrap": "^4.1.3"
+  }
+}
