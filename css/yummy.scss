@@ -7,8 +7,8 @@
 //  Then override bootstrap default with project specific values.
 // --------------------------------------------------------
 
-//@import "../../BS4/node_modules/bootstrap/scss/functions";
-//@import "../../BS4/node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/functions";
+@import "../node_modules/bootstrap/scss/variables";
 //@import "../../BS4/app/styles/variables";
 
 // --------------------------------------------------------
@@ -21,7 +21,7 @@
    Core mixins
    -------------------------------------------------------- */
 
-//@import "../../BS4/node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/mixins";
 
 
 
@@ -38,14 +38,14 @@
    Core CSS
    -------------------------------------------------------- */
 
-//@import "../../BS4/node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/custom_reboot";
 //@import "../../node_modules/bootstrap/scss/type";
 //@import "../bower_components/bootstrap/scss/images";
 //@import "../bower_components/bootstrap/scss/code";
-//@import "../../BS4/node_modules/bootstrap/scss/grid";
+@import "../node_modules/bootstrap/scss/custom_grid";
 //@import "../bower_components/bootstrap/scss/tables";
 //@import "../../BS4/node_modules/bootstrap/scss/forms";
-//@import "../../BS4/node_modules/bootstrap/scss/buttons";
+@import "../node_modules/bootstrap/scss/custom_buttons";
 
 
 
@@ -54,13 +54,13 @@
    -------------------------------------------------------- */
 
 //@import "../bower_components/bootstrap/scss/animation";
-//@import "../../BS4/node_modules/bootstrap/scss/dropdown";
+@import "../node_modules/bootstrap/scss/custom_dropdown";
 //@import "../bower_components/bootstrap/scss/button-group";
 //@import "../bower_components/bootstrap/scss/input-group";
 //@import "../bower_components/bootstrap/scss/custom-forms";
-//@import "../../BS4/node_modules/bootstrap/scss/nav";
-//@import "../../BS4/node_modules/bootstrap/scss/navbar";
-//@import "../../node_modules/bootstrap/scss/card";
+@import "../node_modules/bootstrap/scss/custom_nav";
+@import "../node_modules/bootstrap/scss/custom_navbar";
+//@import "../node_modules/bootstrap/scss/card";
 //@import "../bower_components/bootstrap/scss/breadcrumb";
 //@import "../bower_components/bootstrap/scss/pagination";
 //@import "../bower_components/bootstrap/scss/pager";
@@ -90,14 +90,14 @@
    Utility classes
    -------------------------------------------------------- */
 
-//@import "../../BS4/node_modules/bootstrap/scss/utilities";
-//@import "../../node_modules/bootstrap/scss/utilities/background";
+@import "../node_modules/bootstrap/scss/custom_utilities";
+//@import "../../node_modules/bootstrap/scss/utilities/backgrounds";
 //@import "../../node_modules/bootstrap/scss/utilities/spacing";
 //@import "../../node_modules/bootstrap/scss/utilities/responsive";
 
 
 //@import "../../node_modules/bootstrap/scss/badge";
-//@import "../../BS4/node_modules/bootstrap/scss/transitions";
+@import "../node_modules/bootstrap/scss/custom_transitions";
 
 /* --------------------------------------------------------
    Custom application specific styles
