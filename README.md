@@ -7,9 +7,9 @@ Thực hiện bởi [Hồ Anh Tiến](https://github.com/komatsu98)
 
 ## Liên kết
 
-[Giao diện](https://komatsu98.github.io/yummy/)
+[Giao diện](https://komatsu98.000webhostapp.com/)
 
-[PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fkomatsu98.github.io%2Fyummy%2F)
+[PageSpeed Insight](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fkomatsu98.000webhostapp.com%2F&tab=desktop)
 
 ## Kiến thức nắm được
 "Biết dùng dịch vụ hosting để upload update code và deploy 1 dự án web
